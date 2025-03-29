@@ -6,6 +6,7 @@ public class TestNG {
 	{
 		System.out.println("Welcome to testNG world");
 		System.out.println("Feature creatured");
+		System.out.println("new relase");
 
 	}
 
